@@ -23,4 +23,7 @@ npm-debug.log*
 
 # Build output
 dist/
-build/ 
+build/
+
+# Personal documentation
+NOTION_REPORT.md 
