@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Token cache
+.mcp-outlook-token-cache.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Build output
+dist/
+build/ 
