@@ -54,4 +54,3 @@ ISC
 
 ---
 
-For detailed API documentation and setup instructions, see [NOTION_REPORT.md](NOTION_REPORT.md). 
